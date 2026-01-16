@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv)<2:
-    print("argument error<argument> ")
+    print("argument error")
     miles=10
 else:
     miles=int(sys.argv[1])

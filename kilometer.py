@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv)<2:
-    print("argument error ")
+    print("argument error<argument> ")
 else:
     miles=int(sys.argv[1])
 kilometers=miles*1.6
